@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Customer Track
 
-You can use the [editor on GitHub](https://github.com/clientfoci/clientfoci.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## All the Right Information on Your Dashboard
+### View the consolidated information about your customers and their concerns.
+It all starts on the dashboard. This is where you will find an overview of your customer base. You will define the categories and be able to choose the priorities for each ticket. The dashboard will show you totals for each priority and category. Additionally, you will be able to see the oldest tickets that your team has open. Finally, you can see a list of all of your customers and thier open issues sorted by priority. This page provides you the ability to give guidance to your team and see where you need to focuse your efforts in order to ensure that your customers keep coming back.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Customer Engagement
+### Stay up to date with your customers and keep them coming back.
+Customer Track allows you to document, schedule, and manage your customer base. Keeping in touch ensures that your customers will never lose sight of the value you provide them. Customer Track ensures that you don't forget to follow up with your customers on time. This will make sure you maintain your hard earned reputation
 
-### Markdown
+## Easy to Use
+### Our tools allow you to concentrate on growing your business.
+Customer Track allows you to focus your energy on your business. We provide the tools for managing your customers. We provide easy ways to document customer interactions, schedule follow-up calls, and ensure that you provide resolution to customer problems. Our goal is to allow you to concentrate on growing your customer base, we will ensure that you maintain good relationships with them.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Calendar
+### See all of your follow up appointments at a glance.
+You can change the date simply by clicking and dragging the appointment. If you want to edit the item, simply click it and update it. This calendar will make sure that you don't lose sight of any customer issues.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/clientfoci/clientfoci.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
